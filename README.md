@@ -25,3 +25,4 @@ This repository demonstrates how the Python [pickle](https://docs.python.org/3.5
 
 ## Resources
 - [https://blog.nelhage.com/2011/03/exploiting-pickle/](https://blog.nelhage.com/2011/03/exploiting-pickle/) - This blog was very helpful in explaining how a pickle can be exploited in Python.  The code in this repository was inspired by this article.
+- [https://media.blackhat.com/bh-us-11/Slaviero/BH_US_11_Slaviero_Sour_Pickles_WP.pdf](https://media.blackhat.com/bh-us-11/Slaviero/BH_US_11_Slaviero_Sour_Pickles_WP.pdf) - This is a good discussion related to the expoloitation of the pickle framework.
