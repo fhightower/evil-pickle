@@ -1,4 +1,4 @@
-# Angry Pickle
+# Evil Pickle
 
 This repository demonstrates how the Python [pickle](https://docs.python.org/3.5/library/pickle.html) module can be exploited.
 
@@ -13,14 +13,14 @@ This repository demonstrates how the Python [pickle](https://docs.python.org/3.5
 
     ```python
     # create an exploited pickle that will run the 'ls' command when the pickle is read
-    python3 angry_pickle_writer.py
+    python3 evil_pickle_writer.py
     ```
 
 2. Read exploited pickle
 
     ```python
     # read the exploited pickle... notice that it will run the 'ls' command when reading the pickle
-    python3 angry_pickle_reader.py
+    python3 evil_pickle_reader.py
     ```
 
 ## Resources
